@@ -1,6 +1,6 @@
 {
   "name": "react-mapbox-gl",
-  "version": "5.1.1",
+  "version": "5.1.2",
   "description": "A React binding of mapbox-gl-js",
   "main": "lib/index.js",
   "module": "lib-esm/index.js",
@@ -74,8 +74,8 @@
   "peerDependencies": {
     "mapbox-gl": "^1.12.0",
     "prop-types": "^15.6.2",
-    "react": "^16.11.0",
-    "react-dom": "^16.11.0"
+    "react": "^16.11.0 || ^17.0.2",
+    "react-dom": "^16.11.0 || ^17.0.2"
   },
   "devDependencies": {
     "@types/core-js": "0.9.43",
